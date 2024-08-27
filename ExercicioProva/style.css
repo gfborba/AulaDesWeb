@@ -49,3 +49,33 @@ body {
 .nav-links a:hover {
     color: #333;
 }
+
+#exclusivos{
+    color:#93c8cb ;
+}
+
+.titulo{
+   
+
+}
+
+.img{
+    text-align: right;
+    padding-top: 10em;
+    padding-right: 28em;
+    float: right;
+}
+
+.principal{
+    width: 489px;
+    height: 112px;
+    padding-top: 197px;
+    padding-left: 119px;
+}
+
+footer{
+   
+    text-align: center;
+    padding-top: 33em;
+    
+}
