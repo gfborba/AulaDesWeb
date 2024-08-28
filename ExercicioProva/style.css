@@ -13,7 +13,7 @@ body {
     /* padding: 10px 20px; */
     background-color: #fff;
     /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
-    padding-top: 3em;
+    padding-top: 2em;
     padding-left: 8em;
     padding-right: 8em;
 }
@@ -81,7 +81,7 @@ h1{
 .img{
     text-align: right;
     padding-top: 10em;
-    padding-right: 28em;
+    padding-right: 15em;
     float: right;
     
     
