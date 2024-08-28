@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    padding: 3em 3em 3em 3em;
 }
 
 
@@ -105,7 +106,7 @@ h1{
 footer{
    
     text-align: center;
-    padding-top: 20em;
+    padding-top: 15em;
     font-weight: 400;
     font-size: 14px;
     line-height: 28px;
